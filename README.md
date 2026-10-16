@@ -2,8 +2,6 @@
 
 # Conception d'un système numérique : Ascon-AEAD128
 
-Ce projet a été réalisé dans le cadre du cours "Électronique 1 - Conception d'un système numérique". 
-
 ##  Présentation du projet
 Ce projet consiste à modéliser une version simplifiée de l'algorithme de chiffrement original : l'Ascon-AEAD128. L'algorithme Ascon 128 fait partie de la famille des chiffrements authentifiés légers et a été choisi en 2023 par le NIST (National Institute of Standards and Technology) pour devenir une norme.
 

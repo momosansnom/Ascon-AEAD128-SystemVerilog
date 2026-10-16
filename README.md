@@ -1,7 +1,5 @@
 # Ascon-AEAD128-SystemVerilog
 
-# Conception d'un système numérique : Ascon-AEAD128
-
 ##  Présentation du projet
 Ce projet consiste à modéliser une version simplifiée de l'algorithme de chiffrement original : l'Ascon-AEAD128. L'algorithme Ascon 128 fait partie de la famille des chiffrements authentifiés légers et a été choisi en 2023 par le NIST (National Institute of Standards and Technology) pour devenir une norme.
 
